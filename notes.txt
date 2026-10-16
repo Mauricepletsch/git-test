@@ -1,1 +1,2 @@
 Git init für den Start.
+git add <file>
